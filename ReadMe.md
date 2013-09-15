@@ -50,11 +50,11 @@ The calculator has a limited amount of memory which can store and process a numb
 
 ##Output format:
 If the content in the memory is 0, then display:   
-**Value-of-display**
+**Value-of-display**   
 If the content in the memory is not 0, then display:   
-**Value-of-display M: Value-of-memory**
+**Value-of-display M: Value-of-memory**   
 If the content in the memory has an error, then display:   
-**0 M:Value-of-memory E**   
+**0 M:Value-of-memory E**    
 
 ##Example: (Itatics denote input)
 
