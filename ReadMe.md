@@ -1,4 +1,4 @@
-#Hand-held digits calculator
+#Hand-held Digital Calculator
 Contributor: Renchen Sun
 ##Compilation
 The program can be compiled by using the following command
