@@ -56,21 +56,21 @@ If the content in the memory is not 0, then display:
 If the content in the memory has an error, then display:
 **0 M:Value-of-memory E**
 
-##Example:
+##Example: (Itatics denote input)
 
-456-123+456=
+*456-123+456=*
   789
-  1+1=
+*1+1=*
   7892
-  AC
-  1+1=
+  *AC*
+  *1+1=*
   2
-  M+
-  =
+  *M+*
+  *=*
   2 M: 2
-  /0
-  =
+  */0*
+  *=*
   0 M: 2 E
-  AC
-  =
+  *AC*
+  *=*
   0
